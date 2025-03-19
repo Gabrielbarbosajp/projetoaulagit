@@ -1,4 +1,3 @@
-faculdade uniesp 
 Curso ciencia da computaçao 
 disciplina: Tecnologia para front and 
 lista de exercicio 
