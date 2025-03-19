@@ -1,11 +1,12 @@
 faculdade uniesp 
 Curso ciencia da computaçao 
-disciplina: topicos essenciais para programaçao
-
+disciplina: Tecnologia para front and 
 lista de exercicio 
 
 Questao 1
 
 Questao 2
 
-Questao 3 
+Questao 4
+
+Questao 5
